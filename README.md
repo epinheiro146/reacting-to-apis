@@ -47,6 +47,3 @@ README.md
 Consider styling your card at this point so that it is easier to read. Bootstrap v4/v5 should make this pretty easy for you. **At a minimum**, you should display the film title and description, but you may use as many properties as you want.
 5. The next task is to add another button next to `Load Films` that says `Load People`. This button, when clicked, should trigger a different conditional render. We'll be using this new conditional render to retreive and display people data from the Ghibli REST API.
 6. Finally repeat the same process froim step 3 that you did for films with this people endpoint. **At a minimum**, you should display the person's name, age, gender, and a link to that particular person's JSON response that will open in a new tab, but you may use as many properties as you want.
-
-## Closing Remarks
-And that's all for this lab! The great thing about APIs, though, is that they give you creative freedom to use the data as much as you see fit, so if you have another idea of how to manipulate this data and display it for your "users", then go right ahead! We're looking forward to seeing what you create.
